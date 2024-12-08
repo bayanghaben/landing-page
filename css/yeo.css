@@ -59,20 +59,20 @@ a:active {
   background-size: auto;
   padding-bottom: 3rem;
   background-image: linear-gradient(
-    to right top,
-    #74607d,
-    #717497,
-    #6889ab,
-    #619eb8,
-    #64b2bc,
-    #81a8aa,
-    #80c6c1,
-    #90d0c3,
-    #9ad5cb,
-    #a4d9d2,
-    #afdeda,
-    #bae2e0
-  );
+      to right top,
+      rgb(116, 96, 125),
+      rgb(113, 116, 151),
+      rgb(104, 137, 171),
+      rgb(97, 158, 184),
+      rgb(100, 178, 188),
+      rgb(113, 188, 190),
+      rgb(128, 198, 193),
+      rgb(144, 208, 195),
+      rgb(154, 213, 203),
+      rgb(164, 217, 210),
+      rgb(175, 222, 218),
+      rgb(186, 226, 224)
+    )
 }
 
 .yeo-slogan .slogan-bold {
